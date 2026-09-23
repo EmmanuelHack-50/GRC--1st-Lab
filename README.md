@@ -1,63 +1,30 @@
-# Cybersecurity GRC Portfolio
+# Hi, I'm Emmanuel 👋
 
-Welcome to my Cybersecurity Governance, Risk and Compliance portfolio.
+Cybersecurity | GRC | Information Security | Risk & Compliance
 
-I am building practical projects demonstrating my ability to apply cybersecurity governance, risk and compliance principles in realistic business environments.
+🎓 MSc Cybersecurity Management
+📋 GRC Certified — cyberExam
+🔐 Interested in ISO 27001, ISMS, risk management, security governance
+🌍 Based in Lithuania
 
-## Focus Areas
+## What I'm working on
 
-- ISO/IEC 27001
-- Governance, Risk & Compliance (GRC)
-- Information Security Risk Management
-- Control Assessment
-- Gap Analysis
-- Audit Readiness
-- Security Policies
-- Third-Party Risk Management
-- Compliance
-- Remediation Tracking
-- GDPR & Information Security
+- ISO 27001 / ISMS implementation
+- Cybersecurity risk assessments
+- GRC automation
+- Security policies & controls
+- Vulnerability/risk documentation
+- Security awareness
 
-## Portfolio Projects
+## Featured Projects
 
-### 01 — ISO/IEC 27001 Annex A Gap Assessment
+🔐 ISO 27001 ISMS Starter Kit
+📊 Cybersecurity Risk Assessment Framework
+🛡️ Security Controls Mapping Tool
+🚨 Incident Response Exercise
+📋 GRC Evidence Tracker
 
-A full assessment of all 93 ISO/IEC 27001:2022 Annex A controls for a fictional Ireland-based SaaS company.
-
-**Skills demonstrated:**
-
-- Control assessment
-- Gap analysis
-- Remediation planning
-- Risk-based prioritization
-- Audit evidence identification
-
-### 02 — Risk Register & Risk Treatment Plan
-
-Coming soon.
-
-### 03 — Statement of Applicability
-
-Coming soon.
-
-### 04 — Audit Evidence Matrix
-
-Coming soon.
-
-### 05 — Third-Party Risk Assessment
-
-Coming soon.
-
-### 06 — Security Policy Pack
-
-Coming soon.
-
----
-
-## Professional Development
-
-**Master's in Cybersecurity Management**
-
+[LinkedIn] [Portfolio] [CV]
 **GRC Certificate — cyberExam**
 
 ---
