@@ -2,9 +2,9 @@
 
 Cybersecurity | GRC | Information Security | Risk & Compliance
 
-🎓 MSc Cybersecurity Management
-📋 GRC Certified — cyberExam
-🔐 Interested in ISO 27001, ISMS, risk management, security governance
+🎓 MSc Cybersecurity Management  
+📋 GRC Certified — cyberExam  
+🔐 Interested in ISO 27001, ISMS, risk management, security governance  
 🌍 Based in Lithuania
 
 ## What I'm working on
@@ -18,13 +18,14 @@ Cybersecurity | GRC | Information Security | Risk & Compliance
 
 ## Featured Projects
 
-🔐 ISO 27001 ISMS Starter Kit
-📊 Cybersecurity Risk Assessment Framework
-🛡️ Security Controls Mapping Tool
-🚨 Incident Response Exercise
-📋 GRC Evidence Tracker
+- [Lab 4 — Third-Party Vendor Risk Assessment](Lab-4-Third-Party-Vendor-Risk-Assessment/README.md) — questionnaire, scoring model, fictional EU vendor comparison, risk register, and remediation plan.
+- 🔐 ISO 27001 ISMS Starter Kit
+- 📊 Cybersecurity Risk Assessment Framework
+- 🛡️ Security Controls Mapping Tool
+- 🚨 Incident Response Exercise
+- 📋 GRC Evidence Tracker
 
-[LinkedIn] [Portfolio] [CV]
+[LinkedIn] [Portfolio] [CV]  
 **GRC Certificate — cyberExam**
 
 ---
