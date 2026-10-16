@@ -1,0 +1,37 @@
+Vendor_ID,Vendor_Name,Fictional_EU_Location,Service,Question_ID,Domain,Score_0_to_3,Response_Summary
+V1,BalticPay UAB,Lithuania,Payment processing,Q1,Governance,0,Approved policy and accountable security lead evidenced
+V1,BalticPay UAB,Lithuania,Payment processing,Q2,Asset & data management,1,Data classification exists; annual access mapping needs improvement
+V1,BalticPay UAB,Lithuania,Payment processing,Q3,Identity & access,0,MFA enforced for privileged and remote access
+V1,BalticPay UAB,Lithuania,Payment processing,Q4,Vulnerability management,1,Tracked remediation process; some metrics need stronger evidence
+V1,BalticPay UAB,Lithuania,Payment processing,Q5,Secure development / change,0,Changes reviewed and tested
+V1,BalticPay UAB,Lithuania,Payment processing,Q6,Encryption,0,Sensitive data encrypted in transit and at rest
+V1,BalticPay UAB,Lithuania,Payment processing,Q7,Incident response,1,Documented process; contractual notification wording should be clarified
+V1,BalticPay UAB,Lithuania,Payment processing,Q8,Business continuity,1,Recovery tests conducted; latest results need validation
+V1,BalticPay UAB,Lithuania,Payment processing,Q9,Subcontractors / fourth parties,0,Material subprocessors disclosed and reviewed
+V1,BalticPay UAB,Lithuania,Payment processing,Q10,Compliance & assurance,0,Relevant assurance evidence provided for the scoped service
+V1,BalticPay UAB,Lithuania,Payment processing,Q11,Data lifecycle & exit,1,Deletion process exists; exit evidence should be confirmed
+V1,BalticPay UAB,Lithuania,Payment processing,Q12,Supply-chain resilience,1,Dependencies tracked; upstream outage exercise is limited
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q1,Governance,1,Policies exist; ownership review cadence not fully evidenced
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q2,Asset & data management,1,Classification is defined; data-flow documentation has gaps
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q3,Identity & access,1,MFA enabled for most access; exception review needs evidence
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q4,Vulnerability management,2,Remediation timelines exist but overdue findings are not consistently tracked
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q5,Secure development / change,1,Change approvals exist; testing records are inconsistent
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q6,Encryption,0,Encryption enabled for data in transit and at rest
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q7,Incident response,1,Incident plan exists; customer notification workflow needs testing
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q8,Business continuity,2,Backups exist; latest recovery test did not cover all critical workloads
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q9,Subcontractors / fourth parties,1,Subcontractor list available; periodic reassessment not fully evidenced
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q10,Compliance & assurance,1,Assurance report is available but scope mapping needs confirmation
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q11,Data lifecycle & exit,1,Deletion terms exist; exit test evidence is limited
+V2,RhineCloud GmbH,Germany,Cloud hosting,Q12,Supply-chain resilience,2,Upstream dependencies are known but no recent scenario exercise
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q1,Governance,2,Security ownership is informal and policy review evidence is limited
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q2,Asset & data management,2,Data inventory is incomplete and access mapping is outdated
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q3,Identity & access,2,MFA is not consistently enforced across all remote administrative access
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q4,Vulnerability management,3,No reliable evidence of risk-based remediation deadlines
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q5,Secure development / change,2,Testing and approval records are inconsistent
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q6,Encryption,1,Encryption is used but configuration evidence is incomplete
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q7,Incident response,2,Response plan is informal and customer notification timelines are unclear
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q8,Business continuity,3,Recovery testing is not evidenced for the critical service
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q9,Subcontractors / fourth parties,2,Subcontractor inventory and oversight are incomplete
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q10,Compliance & assurance,1,Some policy documents exist; independent assurance is not available
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q11,Data lifecycle & exit,1,Deletion commitments exist but verification and exit steps are unclear
+V3,IberiaLogistics SL,Spain,Logistics SaaS,Q12,Supply-chain resilience,2,No documented upstream dependency exercise
