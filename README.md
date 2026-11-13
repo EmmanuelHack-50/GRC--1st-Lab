@@ -18,6 +18,7 @@ Cybersecurity | GRC | Information Security | Risk & Compliance
 
 ## Featured Projects
 
+- [Lab 5 — IT Risk Assessment Quality Assurance](Lab-5-IT-Risk-Assessment-Quality-Assurance/README.md) — QA checklist, assessment review log, simulated findings, stakeholder actions and quality improvement report.
 - [Lab 4 — Third-Party Vendor Risk Assessment](Lab-4-Third-Party-Vendor-Risk-Assessment/README.md) — questionnaire, scoring model, fictional EU vendor comparison, risk register, and remediation plan.
 - 🔐 ISO 27001 ISMS Starter Kit
 - 📊 Cybersecurity Risk Assessment Framework
